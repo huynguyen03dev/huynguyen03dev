@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
 <h3 align="center">A passionate Game/Backend developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **modular monolith architecture in Asp.net Core**
+- 🌱 I’m currently learning **Nextjs and MCP**
 
-- 👯 I’m looking to collaborate on **Unity and Asp.net Core projects**
+- 👯 I’m looking to collaborate on **Unity and Nextjs projects**
 
 - 👨‍💻 All of my projects are available at [portfolio.xyz](portfolio.xyz)
 
