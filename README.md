@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Unity and Nextjs projects**
 
-- 📫 How to reach me **huynguyen03.dev@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/huy-nguyen-87a944356/**
 
 
 <h3 align="left">Connect with me:</h3>
