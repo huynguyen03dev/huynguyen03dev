@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
-<h3 align="center">A passionate Game/Backend developer from Viet Nam</h3>
+<h3 align="center">A passionate Game/Fullstack developer from Viet Nam</h3>
 
 - 🌱 I’m currently learning **Nextjs and MCP**
 
