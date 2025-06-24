@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Huy Nguyen</h1>
 <h3 align="center">A passionate Game/Fullstack developer from Viet Nam</h3>
 
-- 🌱 I’m currently learning **Nextjs and MCP**
+- 🌱 I’m currently learning **Unity and Nextjs**
 
 - 👯 I’m looking to collaborate on **Unity and Nextjs projects**
 
-- 👨‍💻 All of my projects are available at [portfolio.xyz](portfolio.xyz)
-
 - 📫 How to reach me **huynguyen03.dev@gmail.com**
 
-- 📄 Know about my experiences [resume.xyz](resume.xyz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
